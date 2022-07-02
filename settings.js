@@ -19,21 +19,21 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'Bixby MD'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
+global.owner = ['94721568805']
+global.premium = ['94721568805']
+global.ownernomer = '94721568805'
+global.ownername = '🐧Dark Pasidu🐧'
+global.botname = '🐧Pasidu-MD🐧'
+global.footer = ' ᴘᴀꜱɪᴅᴜ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ..🪄.'
 global.ig = 'https://github.com/darkalphaxteam'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'Thinura '
+global.mygroup = 'https://chat.whatsapp.com/HpwtSrIPa3hH9QLRCPyMCN'
+global.packname = 'Pasidu'
+global.author = 'Pasidu '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '🚢'
+global.sp = '🪄'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Please Wait...',
+    wait: 'Please Wait...🪄',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
